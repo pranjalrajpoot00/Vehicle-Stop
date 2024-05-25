@@ -1,0 +1,16 @@
+.container{
+    width: 100%;
+    padding: 10px;
+}
+
+.containerHeading{
+    text-align: center;
+    padding: 5px 15px;
+    font-size: 30px;
+}
+.mapContainer{
+    width: 90%;
+    margin: auto;
+    height: 500px;
+    
+}
