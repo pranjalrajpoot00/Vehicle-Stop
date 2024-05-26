@@ -11,6 +11,76 @@
 .mapContainer{
     width: 90%;
     margin: auto;
-    height: 500px;
+    height: 600px;
     
+}
+
+
+.userDefinedThreshold{
+    text-align: center;
+    font-weight: bold;
+    font-size: x-large; 
+}
+
+#threshold{
+    text-align: center;
+    font-weight: bold;
+    font-size: large;
+    width: 50px;
+    height: 40px;
+}
+
+.vehicle-stoppage-visualization {
+    padding: 20px;
+    margin: 20px;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    transition: box-shadow 0.3s ease-in-out;
+}
+
+.vehicle-stoppage-visualization:hover {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.section {
+    margin-bottom: 20px;
+}
+
+h1 {
+    font-size: 24px;
+    color: #333;
+    margin-bottom: 10px;
+}
+
+h2 {
+    font-size: 20px;
+    color: #555;
+    margin-bottom: 8px;
+}
+
+h3 {
+    font-size: 18px;
+    color: #777;
+    margin-bottom: 6px;
+}
+
+p {
+    font-size: 16px;
+    color: #666;
+    line-height: 1.5;
+}
+
+ul {
+    padding-left: 20px;
+}
+
+ul li {
+    font-size: 16px;
+    color: #444;
+    margin-bottom: 5px;
+}
+
+ul li strong {
+    color: #222;
 }
