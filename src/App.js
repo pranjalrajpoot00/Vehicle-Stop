@@ -147,6 +147,9 @@ function App() {
               map.
             </li>
           </ul>
+
+                <br></br>
+          <h2>Assignment submitted by:-<br></br> Pranjal Pratap Singh</h2>
         </div>
       </div>
     </div>
